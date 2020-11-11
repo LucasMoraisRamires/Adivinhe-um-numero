@@ -2,5 +2,5 @@
 <h2>Jogo adivinhe um numero feito em javascript puro + html e css </h2>
 
 
-<h3><a href="https://adivinhe-o-numero.netlify.app/">Testar </a></h3>
+<h3><a href="https://adivinhe-o-numero.netlify.app/" target="_blank">Testar </a></h3>
 
