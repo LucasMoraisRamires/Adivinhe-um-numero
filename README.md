@@ -1,3 +1,3 @@
 # Adivinhe-um-numero
-Jogo adivinhe um numero feito em javascript puro + html e css
+<h2>Jogo adivinhe um numero feito em javascript puro + html e css </h2>
 
