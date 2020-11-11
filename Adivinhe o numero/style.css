@@ -1,0 +1,41 @@
+body{
+    background-color: #E55C8A;
+}
+
+h2{
+    color: firebrick;
+    font-size: 45px;
+    font-family: 'Big Shoulders Stencil Text', cursive;
+}
+
+
+
+
+
+.container{
+    background-color: rgb(61, 70, 70);
+    width: 500px;
+    padding: 30px;
+    margin: 0 auto;
+    margin-top: 100px;
+    border-radius: 15px;
+    font-size: 20px;
+    color: ghostwhite;
+    font-family: 'Goldman', cursive;
+    
+
+}
+
+input{
+    border-radius: 5px;
+    height: 30px;
+}
+
+input[type=submit]{
+    background-color: gainsboro;
+    height: 35px;
+    width: 120px;
+    font-weight: bold;
+    letter-spacing: 1px;
+    cursor: pointer;
+}
